@@ -5,28 +5,15 @@ public class Teste {
 
 
         public static void main(String[] args)  {
-            // Criando instâncias de Comentario
-            Comentario comentario1 = new Comentario("Ótima foto!", new Date());
-            Comentario comentario2 = new Comentario("Parabéns pelo evento!", new Date());
 
-            // Criando instância de PedradaFoto
-            PedradaFoto foto = new PedradaFoto("john_doe", new Date().getTime(), 0, comentario1, "foto.jpg", "Linda paisagem");
-
-            // Criando instância de PedradaEvento
-            PedradaEvento evento = new PedradaEvento("mary_smith", new Date().getTime(), 0, comentario2, TipoEvento.Festa, new Date(), "Local do evento", true, "Confirmado");
-
-            // Criando instância de PedradaMensagem
-            PedradaMensagem mensagem = new PedradaMensagem("jane_doe", new Date().getTime(), 0, null, "Olá a todos!");
-
-            // Criando instância de Riola
+            Comentario comentario1 = new Comentario("familia 1", new Date());
+            PedradaFoto foto = new PedradaFoto("Maria_dias", new Date().getTime(), 0, comentario1, "foto.jpg", "minha familia");
+            PedradaEvento evento = new PedradaEvento("neidi_tavares", new Date().getTime(), 0,null, TipoEvento.Festa, new Date(), "Local do evento", true, "Confirmado");
+            PedradaMensagem mensagem = new PedradaMensagem("paulo_silva", new Date().getTime(), 0, null, "Segue-se o enunciado do teste 2");
             Riola riola = new Riola();
-
-            // Adicionando as pedradas ao Riola
             riola.addPedrada(foto);
             riola.addPedrada(evento);
             riola.addPedrada(mensagem);
-
-            // Exibindo o feed de notícias
             riola.show();
         }
     }
