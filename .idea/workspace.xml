@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0af55b83-8184-4350-b0d5-3b0e8af9dece" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pedradaDigital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alumni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comentario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Evento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestorEvento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isecmarini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModeradorGrupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pedrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PedradaDigital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PedradaEvento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PedradaFoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PedradaMensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Riola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipoEvento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VidaEstudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/membroRede.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fgdoDLZ44H1wRUjRtluZ5nbNaT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0af55b83-8184-4350-b0d5-3b0e8af9dece" name="Changes" comment="" />
+      <created>1714226831618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714226831618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
