@@ -18,4 +18,12 @@ public class PedradaDigital {
         String password = input.next();
         System.out.println("Password: ");
     }
+    public void signUp() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Email: ");
+        String email = input.next();
+        System.out.println("Password: ");
+        String password = input.next();
+        System.out.println("Account created successfully.");
+    }
 }

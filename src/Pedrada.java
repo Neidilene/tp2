@@ -1,14 +1,13 @@
 public abstract class Pedrada {
 
-    private static int nextID = 1;
-    private int id;
+    private  static int id;
     private String username;
     private long carimbotempo;
     private int gostos;
     private Comentario comentarios;
 
     public Pedrada(String username, long carimbotempo, int gostos, Comentario comentarios) {
-        this.id = nextID++;
+        id = id + 1;
         this.username = username;
         this.carimbotempo = carimbotempo;
         this.gostos = gostos;
