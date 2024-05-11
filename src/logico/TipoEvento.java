@@ -1,3 +1,5 @@
+package logico;
+
 public enum TipoEvento {
     Sentod("Sentod"),
     Festa("Festa"),

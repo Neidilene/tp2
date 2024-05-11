@@ -1,6 +1,8 @@
+package logico;
+
 import java.time.LocalDateTime;
 
-public class Estudante extends Isecmarini implements GestorEvento{
+public class Estudante extends Isecmarini implements GestorEvento {
     private int codigo;
     private String curso;
     private LocalDateTime anoMatricula;

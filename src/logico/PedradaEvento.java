@@ -1,3 +1,5 @@
+package logico;
+
 import java.util.Date;
 
 public class PedradaEvento extends Pedrada {

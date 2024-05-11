@@ -1,3 +1,5 @@
+package logico;
+
 public abstract class Pedrada {
 
     private  static int id;

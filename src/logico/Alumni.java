@@ -1,6 +1,8 @@
+package logico;
+
 import java.time.LocalDateTime;
 
-public class Alumni extends Estudante{
+public class Alumni extends Estudante {
     private String trabalho;
     private String funcao;
     private String email;

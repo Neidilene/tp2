@@ -1,4 +1,6 @@
-public class Professor extends Isecmarini implements ModeradorGrupo{
+package logico;
+
+public class Professor extends Isecmarini implements ModeradorGrupo {
     private String area;
     private String grau;
     private String departamento;

@@ -1,3 +1,5 @@
+package logico;
+
 public enum VidaEstudante {
         Candidato,
         Matriculado,

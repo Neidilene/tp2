@@ -1,3 +1,5 @@
+package logico;
+
 public class Evento {
     private int id;
     private String nome;

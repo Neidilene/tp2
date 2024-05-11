@@ -1,3 +1,5 @@
+package logico;
+
 public interface ModeradorGrupo {
     void criar();
     void apagar();

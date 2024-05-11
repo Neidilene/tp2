@@ -1,4 +1,6 @@
-public class Funcionario extends Isecmarini implements GestorEvento{
+package logico;
+
+public class Funcionario extends Isecmarini implements GestorEvento {
     private String funcao;
     private String uo;
 
