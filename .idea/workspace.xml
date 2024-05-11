@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0af55b83-8184-4350-b0d5-3b0e8af9dece" name="Changes" comment="guardar tudo">
-      <change afterPath="$PROJECT_DIR$/src/IU/PedradaDigitalIU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Alumni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Alumni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comentario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Comentario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Evento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Evento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GestorEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/GestorEvento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Grupo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Isecmarini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Isecmarini.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModeradorGrupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/ModeradorGrupo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pedrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Pedrada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PedradaDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/PedradaDigital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PedradaEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/PedradaEvento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PedradaFoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/PedradaFoto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PedradaMensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/PedradaMensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Riola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Riola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TipoEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/TipoEvento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VidaEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/VidaEstudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/membroRede.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logico/membroRede.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IU/PedradaDigitalIU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IU/PedradaDigitalIU.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +37,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CriarPerfil.executor": "Run",
+    "Application.PedradaDigitalIU.executor": "Run",
     "Application.Teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715424462748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="guardar tudo">
+      <option name="closed" value="true" />
+      <created>1715425698038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715425698038</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

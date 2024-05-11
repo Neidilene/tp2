@@ -14,19 +14,27 @@ public class PedradaDigitalIU extends JFrame {
             JLabel titulo = new JLabel("Rede Social- PedradaDigital", JLabel.CENTER);
             titulo.setOpaque(true);
             titulo.setBackground(Color.LIGHT_GRAY);
-            JPanel barrastatus = new JPanel();
+            JLabel mensagem = new JLabel("Mensagem",JLabel.CENTER);
 
-            JTextArea jt = new JTextArea(5,5);
+
+            JPanel contentorText = new JPanel();
+            JTextArea jt = new JTextArea(45,150);
             jt.setLineWrap(true);
             jt.setWrapStyleWord(true);
-            janela.add(jt, BorderLayout.CENTER);
+            contentorText.add(jt);
+
+
+            JPanel barrastatus = new JPanel();
+            barrastatus.add(new JLabel("Pedradadigital > "));
+            barrastatus.add(new JTextField(130));
+            barrastatus.setBackground(Color.GRAY);
+            contentorText.add(barrastatus);
+
             janela.add(titulo, BorderLayout.NORTH);
-            janela.add(barrastatus, BorderLayout.SOUTH);
+            janela.add(mensagem,BorderLayout.SOUTH);
+            janela.add(contentorText,BorderLayout.CENTER);
             janela.setVisible(true);
 
-            barrastatus.add(new JLabel("Pedradadigital > "));
-            barrastatus.add(new JTextField(155));
-            barrastatus.setBackground(Color.GRAY);
 
             JPanel contentorBtn = new JPanel(new GridBagLayout());
             GridBagConstraints gbc = new GridBagConstraints();
